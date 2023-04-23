@@ -2,7 +2,7 @@
 
 This fork attempts to Fix stability issues on my device
 
-Copy my ClientAppSettings.json to your ClientAppSettings.json
+Copy my ClientAppSettings.json to your ClientAppSettings.json or check releases
 
 - FPS is capped at 165
 - Disable QuickGameLaunch(?)
