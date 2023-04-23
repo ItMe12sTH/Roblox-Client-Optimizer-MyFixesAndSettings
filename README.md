@@ -7,5 +7,6 @@ Copy my ClientAppSettings.json to your ClientAppSettings.json or merge them (che
 - FPS is capped at 165
 - Disable QuickGameLaunch(?)
 - "DFFlagAlwaysPutSoundsOnDiskWhenLowOnMemory": false
+- "FIntDefaultMeshCacheSizeMB": 4096
 
 manually installing ClientAppSettings.json should work with the new Byfron update
