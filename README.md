@@ -1,5 +1,9 @@
 # Roblox-Client-Optimizer
 
+- FPS is capped at 165
+- Disable QuickGameLaunch(?)
+- "DFFlagAlwaysPutSoundsOnDiskWhenLowOnMemory": false
+
 ***Hello new users!***
 Recently RCO has gotten a lot of exposure from various youtubers such as SharkBlox! This means that there are a lot more testers to find issues. Please be sure there is no solution anywhere else on this github before making an issue!
 
