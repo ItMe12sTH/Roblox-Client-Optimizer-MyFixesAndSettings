@@ -1,6 +1,8 @@
 # Roblox-Client-Optimizer
 
-This fork attempts to Fix stability issues on my device 
+This fork attempts to Fix stability issues on my device
+
+Copy my ClientAppSettings.json to your ClientAppSettings.json
 
 - FPS is capped at 165
 - Disable QuickGameLaunch(?)
